@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  About Dataset for Detection of White Blood Cells of
+  the Juvenile Visayan Warty Pig in Blood Smear
+  Images
+message: >-
+  If you use this dataset, please cite it using the
+  metadata from this file.
+type: dataset
+authors:
+  - given-names: Jacqueline Rose
+    family-names: Alipo-on
+    email: s1821459@usls.edu.ph
+    affiliation: University of St. La Salle
+    orcid: 'https://orcid.org/0000-0001-7948-9512'
+  - given-names: Francesca Isabelle
+    family-names: Escobar
+    email: s1822133@usls.edu.ph
+    affiliation: University of St. La Salle
+    orcid: 'https://orcid.org/0000-0001-6174-890X'
+  - given-names: Jemima Loise
+    family-names: Novia
+    affiliation: 'University of St. La Salle '
+    orcid: 'https://orcid.org/0000-0001-7046-3973'
+    email: s1820906@usls.edu.ph
+  - given-names: 'Monica Marie '
+    family-names: Atienza
+    affiliation: Talarak Foundation Inc.
+  - given-names: Myles Joshua
+    family-names: Tan
+    email: mj.tan@usls.edu.ph
+    orcid: 'https://orcid.org/0000-0002-1426-6526'
+  - email: nouar.aldahoul@live.iium.edu.my
+    affiliation: Multimedia University
+    orcid: 'https://orcid.org/0000-0001-5522-0033'
+    given-names: Nouar
+    family-names: AlDahoul
